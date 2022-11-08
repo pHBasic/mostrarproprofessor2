@@ -1,0 +1,25 @@
+@import "./base.css";body {margin: 0;}a,
+.green {
+  text-decoration: none;
+  color: #1A2DF3;
+  transition: 0.8s;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: #4f5df3;
+    color: #E3F2FD;
+		border-radius: 3px;
+  }
+}
+
+@media (active:active){
+  a:active {
+    border-radius: 100px;
+  }
+}
+
+button{
+  background-color: #2196F3;
+  border-radius: 10px;
+}
