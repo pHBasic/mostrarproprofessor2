@@ -56,12 +56,12 @@
   box-sizing: border-box;
 }
 
-@face-font{
+@font-face{
   font-family: "PoppinsBold";
   src: url(./fonts/Poppins-Bold.ttf);
 }
 
-@face-font{
+@font-face{
   font-family: 'Questrial';
   src: url(./fonts/Questrial-Regular.ttf);
 }
